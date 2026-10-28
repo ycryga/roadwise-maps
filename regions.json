@@ -1,1 +1,19 @@
-{"regions": []}
+{
+  "regions": [
+    {
+      "id": "malaysia-peninsular",
+      "name": "Peninsular Malaysia & Singapore",
+      "url": "https://github.com/ycryga/roadwise-maps/releases/download/malaysia-peninsular/malaysia-peninsular.zip",
+      "bytes": 136747367,
+      "unpackedBytes": 277919921,
+      "built": "2026-10-28",
+      "graphhopper": "11.1",
+      "bbox": [
+        99.3031994,
+        0.9320343000000001,
+        104.5128241,
+        6.7362621
+      ]
+    }
+  ]
+}
